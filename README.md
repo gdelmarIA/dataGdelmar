@@ -5,4 +5,3 @@ Algunos de los repositorios serán creado desde cero por mí y otros serán basa
 Por favor, si algún repositorio te sirve de ayuda, estaré feliz de haber ayudado. Simplemente, si llegas a usar comercialmente algún código o si lo distribuyes a otras personas, cita la fuente. Muchas gracias!
 
 datagdelmar@gmail.com
-guadatalk@hotmail.com
